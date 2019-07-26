@@ -9,3 +9,4 @@
     <li>[ ] ***BONUS*** Set up a github repository, and make commits has you go (use proper comments)</li> 
     <li>[ ] ***BONUS*** Create a <code>development</code> branch, and merge to master as you go</li> 
 </ul>
+# HTML-CSS-JS-Practice
